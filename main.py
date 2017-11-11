@@ -1,6 +1,6 @@
 """
 Text-based RPM in french
-Created by Jerome Tissieres - 2017
+Created by Jerome Tissieres - Nov.2017
 """
 
 from room import Room
