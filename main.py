@@ -1,6 +1,7 @@
 """
 Text-based RPM in french
-Created by Jerome Tissieres - November 2017
+This small game is for learning purpose, what did you expect? :)
+Created by Jerome Tissieres - Nov 2017
 """
 
 from room import Room
